@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EWARDD – E-Waste Recycling | IT Scrap Buyers | Free Pickup India</title>
     <meta name="description" content="EWARDD provides certified e-waste recycling, IT scrap disposal, corporate ITAD, and data destruction services. Free doorstep pickup. Best scrap price in India.">
+
     
     <!-- Bootstrap 5.3 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -538,3 +539,4 @@
 
 </body>
 </html>
+
